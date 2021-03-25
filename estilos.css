@@ -1,0 +1,32 @@
+#radio{
+    width: 280px;
+    height: 70px;
+    padding: 1%;
+    
+    }
+        
+        a{
+            float: none;
+            position: static;
+            font-size: 20px;
+            text-decoration: none;
+            margin: 10px 20px;
+            display: inline-block;
+            background: #079dee;
+            color: #ffffff;
+            padding: 10px 20px;
+            box-shadow: 5px 10px 5px #000000;
+            border-radius: 15px;
+    
+        }
+    
+        a:hover {
+            box-shadow: 0px 2px 0px #1D64A6;
+        }
+    
+        a:active {
+            box-shadow: none;
+        }
+    body{
+        background-color: rgb(169, 215, 223);
+    }
